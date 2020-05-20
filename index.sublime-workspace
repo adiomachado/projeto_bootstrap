@@ -1,0 +1,198 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"http-equiv\tAttr"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Adio-Philco/Projetos/projeto_bootstrap/index.html",
+		"/C/Users/Adio-Philco/PycharmProjects/Adiopythonbirds/testes/fase.py",
+		"/C/Users/Adio-Philco/PycharmProjects/Adiopythonbirds/oo/carro.py",
+		"/C/Users/Adio-Philco/PycharmProjects/Adiopythonbirds/oo/pessoa.py",
+		"/C/Users/Adio-Philco/.gitconfig",
+		"/C/Users/Adio-Philco/PycharmProjects/globallabs/hello_django/hello_django/urls.py",
+		"/C/Users/Adio-Philco/PycharmProjects/globallabs/hello_django/core/views.py",
+		"/C/Users/Adio-Philco/Projetos/projeto_bootstrap/README.md",
+		"/C/Users/Adio-Philco/PycharmProjects/pythonbirds/testes/testes_integracao.py",
+		"/C/Users/Adio-Philco/PycharmProjects/pythonbirds/fase.py",
+		"/C/Users/Adio-Philco/PycharmProjects/pythonbirds/atores.py",
+		"/C/Users/Adio-Philco/PycharmProjects/pythonbirds/executor_de_testes.py",
+		"/C/Users/Adio-Philco/PycharmProjects/Adiopythonbirds/oo/__init__.py",
+		"/C/Users/Adio-Philco/AppData/Local/Temp/fz3temp-2/mostraboleto.php",
+		"/C/Users/Adio-Philco/AppData/Local/Temp/fz3temp-2/getEmail.php",
+		"/C/Users/Adio-Philco/AppData/Local/Temp/fz3temp-2/layout_hsbc.php",
+		"/C/Users/Adio-Philco/AppData/Local/Temp/fz3temp-2/paginafacil.php",
+		"/C/Users/Adio-Philco/AppData/Local/Temp/fz3temp-2/wp-config 2.php",
+		"/C/Users/Adio-Philco/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Users/Adio-Philco/AppData/Local/Temp/fz3temp-2/.htaccess",
+		"/C/Python/Python37/Scripts/venv/Scripts/simplemooc/simplemooc/core/views.py",
+		"/C/Python/Python37/Scripts/venv/Scripts/simplemooc/simplemooc/settings.py",
+		"/C/Python/Python37/Scripts/venv/Scripts/simplemooc/simplemooc/urls.py",
+		"/C/Arquivos de Programas RFB/IRPF2018/transmitidas/75213257968-IRPF-A-2018-2017-RETIF.DEC",
+		"/C/Users/Philco/.receitanet/receitanet.log",
+		"/C/Python/Python37/Scripts/venv/Scripts/simplemooc/core/urls.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 297.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
